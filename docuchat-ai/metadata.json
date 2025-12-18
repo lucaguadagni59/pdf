@@ -1,0 +1,5 @@
+{
+  "name": "DocuChat AI",
+  "description": "Upload a PDF document and chat with it instantly using Gemini's long-context capabilities. Ask questions, get summaries, and extract insights securely in your browser.",
+  "requestFramePermissions": ["microphone"]
+}
